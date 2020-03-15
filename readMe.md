@@ -145,4 +145,4 @@ div{
 - 마지막으로 간단하게 클론 google 을 하여서 간단하게 구글 검색창을 따라서 만들어보았다(css만 사용해서??) - index.html 파일을 열어 확인해 볼수 있습니다.
 - 완성본은 아래와 같습니다.
 
-![ahngle](\ahngle.PNG)
+![ahngle](ahngle.PNG)
